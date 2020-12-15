@@ -39,6 +39,8 @@
 - N-gram: Peter F Brown, Vincent J Della Pietra, Peter V Desouza, Jennifer C Lai, and Robert L Mercer. 1992. *Class-based n-gram models of natural language*. Computational Linguistics 18, 4 (1992), 467–480.
 - Transformers: [pretrained models](https://huggingface.co/transformers/pretrained_models.html), [a GitHub repo](https://github.com/renatoviolin/next_word_prediction)
 - [清源 CPM](https://cpm.baai.ac.cn/)
+- [jieba](https://github.com/fxsjy/jieba)
+- [sego](https://github.com/huichen/sego)
 
 ## 5. 表情符号预测
 
