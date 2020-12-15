@@ -6,7 +6,7 @@ This repository demonstrates a basic example of the architecture design of the c
 
 ## 1. Overview
 
-<img src="./architecture.png" width="800" alt="Architecture" />
+<img src="./chinese_ime_architecture.png" width="800" alt="Architectural Diagram" />
 
 ## 2. Pinyin Splitting
 

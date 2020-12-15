@@ -6,7 +6,7 @@
 
 ## 1. 总览
 
-<img src="./architecture.png" width="800" alt="架构" />
+<img src="./chinese_ime_architecture.png" width="800" alt="架构图" />
 
 ## 2. 拼音切分
 
